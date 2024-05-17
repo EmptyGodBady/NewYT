@@ -74,3 +74,4 @@ function createElement(profileImageUrl, title, channel, views, daysAgo, imageUrl
 
     document.getElementById('container').appendChild(mainDiv);
 }
+
